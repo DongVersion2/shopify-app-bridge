@@ -1,0 +1,11 @@
+name: "Admin UI Extension"
+type: "admin_ui_extension"
+target: "admin.navbar"
+settings:
+  options:
+    - label: "Dashboard"
+      url: "/"
+    - label: "Templates"
+      url: "/templates"
+    - label: "Settings"
+      url: "/settings"
